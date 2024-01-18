@@ -1,23 +1,3 @@
-/**************************************************************************************
-
-Assignment 3 - New Alarm Cond.c
-
-Stefano Giammarresi - 218040170
-Danial Danial - 209411992 
-Joshua Hanif - 217777009 
-Cody Villareal - 215711377
-Ricardo Santin-Andrade - 216981789
-
-EECS 3221 Operating System Fundamentals
-Dr. Jia Xu
-
-December 5th 2023
-
-DISCLAMER - This code was fully designed and written by the members of this group 
-without any external sources and with FULL effort from everyone in the group.
-
-************************************************************************************/
-
 #include <pthread.h>
 #include <time.h>
 #include <stdio.h>
